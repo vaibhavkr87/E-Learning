@@ -78,7 +78,7 @@ const About = React.memo(function ProjectCard() {
             <TextInfoContent
               classes={styles}
               body={
-                "Whether you want to learn a new skill or boost your career, online courses offer the perfect solution. At Skill Mill, our team of 800+ trained professionals delivers quality learning experiences worldwide."
+                "Advance your career or explore new skills with flexible online courses from top platforms. Skill Mill’s 800+ dedicated experts ensure a seamless and impactful learning experience globally."
               }
             />
           </CardContent>
